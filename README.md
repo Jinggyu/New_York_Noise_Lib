@@ -6,7 +6,8 @@ This dataset is curated for the classification of common environmental and urban
 
 ## 📁 Dataset Structure
 
-<img width="701" alt="Screenshot 2025-05-08 at 18 35 18" src="https://github.com/user-attachments/assets/5ea3ebb5-3291-4d1e-81e5-10c777f1581d" />
+<img width="701" alt="Screenshot 2025-05-08 at 18 35 18" src="https://github.com/user-attachments/assets/1fee8af3-b624-4855-88c0-03ad16339b51" />
+
 
 - Each category is stored in its own folder named after the sound label.
 - The `metadata.csv` file provides additional metadata for each audio sample.
@@ -33,7 +34,9 @@ Each of the following categories contains 20 samples:
 
 1. **Loud Music (Party)**
 2. **Jackhammering**
-3. **Loud Talking**
+3. **Loud Talking*<img width="701" alt="Screenshot 2025-05-08 at 18 35 18" src="https://github.com/user-attachments/assets/95a69a70-8157-41c5-8887-2711409a1213" />
+*<img width="701" alt="Screenshot 2025-05-08 at 18 35 18" src="https://github.com/user-attachments/assets/fb897eae-2bf4-40f9-b5c4-55c5244d1e37" />
+
 4. **Car (Truck) Music**
 5. **Barking Dog**
 6. **Engine Idling**
