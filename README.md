@@ -1,6 +1,6 @@
 # New_York_Noise_Lib: Urban Sound Classification Dataset
 
-This dataset is curated for the classification of common environmental and urban noise disturbances. It contains **200 labeled audio samples** organized into **10 categories**, based on the ten most frequently reported noise complaints from the NYC 311 dataset, and each with **20 recordings**. All audio files are **5 seconds long** and sampled at **44.1 kHz**.
+This dataset is curated for the classification of common environmental and urban noise disturbances. It contains **100 labeled audio samples** organized into **10 categories**, based on the ten most frequently reported noise complaints from the NYC 311 dataset, and each with **10 recordings**. All audio files are **5 seconds long** and sampled at **44.1 kHz**.
 
 ---
 
