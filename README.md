@@ -34,9 +34,7 @@ Each of the following categories contains 20 samples:
 
 1. **Loud Music (Party)**
 2. **Jackhammering**
-3. **Loud Talking*<img width="701" alt="Screenshot 2025-05-08 at 18 35 18" src="https://github.com/user-attachments/assets/95a69a70-8157-41c5-8887-2711409a1213" />
-*<img width="701" alt="Screenshot 2025-05-08 at 18 35 18" src="https://github.com/user-attachments/assets/fb897eae-2bf4-40f9-b5c4-55c5244d1e37" />
-
+3. **Loud Talking**
 4. **Car (Truck) Music**
 5. **Barking Dog**
 6. **Engine Idling**
