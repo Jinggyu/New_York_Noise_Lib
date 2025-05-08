@@ -24,8 +24,6 @@ The `metadata.csv` includes the following columns:
 | `label`       | Human-readable label for the sound category                   |
 | `duration_s`  | Duration of the clip in seconds (always 5)                    |
 | `sample_rate` | Audio sampling rate (always 44100 Hz)                         |
-<img width="701" alt="Screenshot 2025-05-08 at 18 35 18" src="https://github.com/user-attachments/assets/49d028b2-eca3-4738-9f4f-f30fdaf3fa3f" />
-
 ---
 
 ## 🔉 Sound Categories
