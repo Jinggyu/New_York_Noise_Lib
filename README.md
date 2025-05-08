@@ -50,7 +50,6 @@ This dataset can be used for:
 - Sound event detection
 - Audio classification
 - Urban noise pollution analysis
-- Real-time environmental monitoring
 - Ideal for testing models like CNNs or transfer learning with pretrained audio embeddings (e.g., PANNs, YAMNet).
 
 ---
