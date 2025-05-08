@@ -1,0 +1,64 @@
+# New_York_Noise_Lib: Urban Sound Classification Dataset
+
+This dataset is curated for the classification of common environmental and urban noise disturbances. It contains **200 labeled audio samples** organized into **10 categories**, based on the ten most frequently reported noise complaints from the NYC 311 dataset, and each with **20 recordings**. All audio files are **5 seconds long** and sampled at **44.1 kHz**.
+
+---
+
+## 📁 Dataset Structure
+
+<img width="701" alt="Screenshot 2025-05-08 at 18 35 18" src="https://github.com/user-attachments/assets/5ea3ebb5-3291-4d1e-81e5-10c777f1581d" />
+
+- Each category is stored in its own folder named after the sound label.
+- The `metadata.csv` file provides additional metadata for each audio sample.
+
+---
+
+## 🧾 Metadata Fields
+
+The `metadata.csv` includes the following columns:
+
+| Column        | Description                                                   |
+|---------------|---------------------------------------------------------------|
+| `filename`    | Relative path to the audio file (e.g., `Loud Music (Party)/1-1.wav`) |
+| `label`       | Human-readable label for the sound category                   |
+| `duration_s`  | Duration of the clip in seconds (always 5)                    |
+| `sample_rate` | Audio sampling rate (always 44100 Hz)                         |
+<img width="701" alt="Screenshot 2025-05-08 at 18 35 18" src="https://github.com/user-attachments/assets/49d028b2-eca3-4738-9f4f-f30fdaf3fa3f" />
+
+---
+
+## 🔉 Sound Categories
+
+Each of the following categories contains 20 samples:
+
+1. **Loud Music (Party)**
+2. **Jackhammering**
+3. **Loud Talking**
+4. **Car (Truck) Music**
+5. **Barking Dog**
+6. **Engine Idling**
+7. **Air Condition (Ventilation Equipment)**
+8. **Banging (Pounding)**
+9. **Car (Truck) Horn**
+10. **Alarms**
+
+---
+
+## 🛠️ Use Cases
+
+This dataset can be used for:
+
+- Sound event detection
+- Audio classification
+- Urban noise pollution analysis
+- Real-time environmental monitoring
+- Ideal for testing models like CNNs or transfer learning with pretrained audio embeddings (e.g., PANNs, YAMNet).
+
+---
+
+## 📜 License
+
+Please contact me for usage rights.
+
+---
+
